@@ -1,0 +1,13 @@
+.p{
+    border: solid;
+    border-color: rgb(26, 153, 192);
+    background-color: #84ffd0;
+}
+.p1{
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    background-color: #c484ff;
+}
